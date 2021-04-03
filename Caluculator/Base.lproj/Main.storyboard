@@ -207,8 +207,8 @@
                                     </button>
                                 </subviews>
                             </stackView>
-                            <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" spacing="30" translatesAutoresizingMaskIntoConstraints="NO" id="lnj-Qb-pQW">
-                                <rect key="frame" x="82" y="506" width="210" height="48"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" spacing="30" translatesAutoresizingMaskIntoConstraints="NO" id="lnj-Qb-pQW">
+                                <rect key="frame" x="82.666666666666686" y="506" width="210" height="48"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dfo-q0-qhA">
                                         <rect key="frame" x="0.0" y="0.0" width="30" height="48"/>
@@ -222,7 +222,7 @@
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="426-6a-459">
-                                        <rect key="frame" x="60" y="0.0" width="30" height="48"/>
+                                        <rect key="frame" x="59.999999999999986" y="0.0" width="30" height="48"/>
                                         <color key="backgroundColor" systemColor="systemYellowColor"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                         <state key="normal" title="8">
@@ -273,6 +273,7 @@
                             <constraint firstAttribute="bottomMargin" secondItem="4cE-nm-JQx" secondAttribute="bottom" constant="20" id="dU4-Gi-bmD"/>
                             <constraint firstItem="Wej-4w-uC7" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="p9s-tL-k1o"/>
                             <constraint firstItem="Wej-4w-uC7" firstAttribute="top" secondItem="lnj-Qb-pQW" secondAttribute="bottom" constant="20" id="q34-j9-Zcl"/>
+                            <constraint firstItem="lnj-Qb-pQW" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="qTu-Zf-D0W"/>
                         </constraints>
                     </view>
                     <connections>
