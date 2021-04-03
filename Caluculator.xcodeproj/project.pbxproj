@@ -15,7 +15,7 @@
 		42F8873226184AB0000005F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42F8873026184AB0000005F1 /* LaunchScreen.storyboard */; };
 		42F8873D26184AB1000005F1 /* CaluculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42F8873C26184AB1000005F1 /* CaluculatorTests.swift */; };
 		42F8874826184AB1000005F1 /* CaluculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42F8874726184AB1000005F1 /* CaluculatorUITests.swift */; };
-		42F887592618B5EC000005F1 /* 計算機.png in Resources */ = {isa = PBXBuildFile; fileRef = 42F887582618B5EC000005F1 /* 計算機.png */; };
+		42F8876C2618B750000005F1 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 42F8876B2618B750000005F1 /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +50,7 @@
 		42F8874326184AB1000005F1 /* CaluculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CaluculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		42F8874726184AB1000005F1 /* CaluculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaluculatorUITests.swift; sourceTree = "<group>"; };
 		42F8874926184AB1000005F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		42F887582618B5EC000005F1 /* 計算機.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "計算機.png"; sourceTree = "<group>"; };
+		42F8876B2618B750000005F1 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,7 +81,7 @@
 		42F8871926184AA9000005F1 = {
 			isa = PBXGroup;
 			children = (
-				42F887582618B5EC000005F1 /* 計算機.png */,
+				42F8876B2618B750000005F1 /* icon.png */,
 				42F8872426184AA9000005F1 /* Caluculator */,
 				42F8873B26184AB1000005F1 /* CaluculatorTests */,
 				42F8874626184AB1000005F1 /* CaluculatorUITests */,
@@ -234,7 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				42F887592618B5EC000005F1 /* 計算機.png in Resources */,
+				42F8876C2618B750000005F1 /* icon.png in Resources */,
 				42F8873226184AB0000005F1 /* LaunchScreen.storyboard in Resources */,
 				42F8872F26184AB0000005F1 /* Assets.xcassets in Resources */,
 				42F8872D26184AA9000005F1 /* Main.storyboard in Resources */,
