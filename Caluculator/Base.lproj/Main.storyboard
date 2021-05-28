@@ -18,7 +18,7 @@
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xAd-k1-AYu">
                                 <rect key="frame" x="0.0" y="214" width="375" height="69"/>
-                                <color key="backgroundColor" red="0.94534403085708618" green="0.75098710193612528" blue="0.48325191711401227" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="backgroundColor" red="0.95579551259999995" green="1" blue="0.87205630820000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="55"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -258,7 +258,7 @@
                             </stackView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" red="0.94534403085708618" green="0.86688278502421223" blue="0.58544198487221266" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="1" green="0.9723205251" blue="0.78606696899999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="IjQ-Tb-WQS" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="5nj-rL-Hqw"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="xAd-k1-AYu" secondAttribute="trailing" id="9Zh-sF-EhD"/>
